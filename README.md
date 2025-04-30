@@ -1,4 +1,4 @@
-# Universal Speech-to-Text Transcriber and Tranlsator
+# Universal Speech-to-Text Transcriber
 
 A fork of marklechner/spch2txt tool. Modified to generate valid srt files for videos.
 
