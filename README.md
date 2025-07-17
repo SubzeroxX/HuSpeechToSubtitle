@@ -4,6 +4,7 @@ A fork of marklechner/spch2txt tool. Modified to generate valid srt files for vi
 
 ### Setup
 Setup on windows: Run setup.bat (it will install python and the packages into a venv)
+Put ffmpeg.exe into the files folder
 
 ### Usage
 Drop an mp3 or mp4 file on to the start.bat file.
